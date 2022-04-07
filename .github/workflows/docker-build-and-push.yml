@@ -26,4 +26,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: david-todorov-student/kiii_lab6:latest
+          tags: davidtodorov/kiii_lab6:latest
